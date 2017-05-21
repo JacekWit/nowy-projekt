@@ -1,22 +1,63 @@
 /*selektor znacznika*/
+
 p {
     color: orange;
 }
+
+
 /*selektor id*/
+
 #paragraph {
     color: blue;
 }
 
+
 /*selektor klasy*/
-.nazwa-klasy{
+
+.nazwa-klasy {
     color: green;
 }
 
+
 /*Łączenie selektorów*/
-a, span, div {color: black;
+
+a,
+span,
+div {
+    color: black;
 }
 
+
 /*Selektor bezpośredniego elementu potomnego*/
-li> a {
+
+li>a {
     color: yellow;
 }
+
+
+
+/*Selektor elementów potomnych*/
+
+div a {color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
