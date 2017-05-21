@@ -35,29 +35,15 @@ li>a {
 }
 
 
-
 /*Selektor elementów potomnych*/
 
-div a {color: purple;
+div a {
+    color: purple;
 }
 
 
+/*Selektor bliskiego rodzeństwa*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+h2+h3 {
+    color: brown;
+}
