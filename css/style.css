@@ -15,3 +15,8 @@ p {
 /*Łączenie selektorów*/
 a, span, div {color: black;
 }
+
+/*Selektor bezpośredniego elementu potomnego*/
+li> a {
+    color: yellow;
+}
