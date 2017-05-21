@@ -47,3 +47,38 @@ div a {
 h2+h3 {
     color: brown;
 }
+
+/*Selektor rodzeństwa*/
+h4 ~ p{color: chocolate;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
