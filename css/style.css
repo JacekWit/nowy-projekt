@@ -4,5 +4,14 @@ p {
 }
 /*selektor id*/
 #paragraph {
-    color: blue
+    color: blue;
+}
+
+/*selektor klasy*/
+.nazwa-klasy{
+    color: green;
+}
+
+/*Łączenie selektorów*/
+a, span, div {color: black;
 }
